@@ -16,4 +16,4 @@ This repo is simply organized
 
 # Contact Information
 
-ANy questions should be directed to [Ryland Jones](mailto:jones.ryland2492@gmail.com)
+Any questions should be directed to [Ryland Jones](mailto:jones.ryland2492@gmail.com)
